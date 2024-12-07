@@ -1,0 +1,18 @@
+2024-12-07 11:52:07,773 - ETL process started.
+2024-12-07 11:52:07,773 - Extracting data from CSV file.
+2024-12-07 11:52:07,779 - Transforming data: Filling missing values and formatting dates.
+2024-12-07 11:52:07,784 - Loading data into SQLite database.
+2024-12-07 11:52:07,796 - Data successfully loaded into the database.
+2024-12-07 11:52:07,796 - ETL process completed successfully.
+2024-12-07 11:55:06,629 - ETL process started.
+2024-12-07 11:55:06,629 - Extracting data from CSV file.
+2024-12-07 11:55:06,630 - Transforming data: Filling missing values and formatting dates.
+2024-12-07 11:55:06,632 - Loading data into SQLite database.
+2024-12-07 11:55:06,658 - Data successfully loaded into the database.
+2024-12-07 11:55:06,658 - ETL process completed successfully.
+2024-12-07 11:56:40,091 - ETL process started.
+2024-12-07 11:56:40,091 - Extracting data from CSV file.
+2024-12-07 11:56:40,094 - Transforming data: Filling missing values and formatting dates.
+2024-12-07 11:56:40,098 - Loading data into SQLite database.
+2024-12-07 11:56:40,121 - Data successfully loaded into the database.
+2024-12-07 11:56:40,122 - ETL process completed successfully.
